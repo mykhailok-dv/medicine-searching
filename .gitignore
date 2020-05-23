@@ -1,0 +1,8 @@
+!var
+/var/*
+!var/log
+/var/log/*
+!/var/log/.gitkeep
+
+.idea
+.git
